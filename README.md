@@ -9,7 +9,7 @@
 
 * Maven Phase: A Maven phase represents a stage in the Maven build lifecycle.
 * Maven Goal: Each phase is a sequence of goals, and each goal is responsible for a specific task.
-* Please configure the plugin with the phase and goals. For example:
+* Please configure the plugin with the phase and goals in the pom file of your project. For example:
 
 ```$xslt
     <build>
